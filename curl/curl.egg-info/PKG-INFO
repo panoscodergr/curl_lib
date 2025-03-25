@@ -1,0 +1,31 @@
+Metadata-Version: 2.2
+Name: curl
+Version: 0.1
+Summary: A Python library that mimics the curl command
+Home-page: https://github.com/panoscodergr/curl_lib
+Author: panoscodergr
+Author-email: panoscodergr@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: summary
+
+# curl_lib
+
+`curl_lib` is a Python library that mimics the functionality of the `curl` command. It supports sending HTTP requests (GET, POST, PUT), handling cookies, and HTTPS support.
+
+## Installation
+
+To install the library, run:
+pip install .
+
